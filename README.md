@@ -52,7 +52,7 @@
 ### Installation
 
 * import tkinter module
-* call tkinter function
+* call tkinter function to create GUI window
 * add title widget
 * add geometry widget
 * add configure widget
