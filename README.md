@@ -1,4 +1,4 @@
-<h3 align="center">Basic-Color-GUI-Application-Button-using-Tkinter</h3>
+<h3 align="center">Basic-Color-GUI-Application-Exit-Button-using-Tkinter</h3>
 
   <p align="center">
     GUI Color & Exit Button
