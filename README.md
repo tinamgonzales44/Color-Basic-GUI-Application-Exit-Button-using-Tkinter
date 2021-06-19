@@ -79,7 +79,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-* Distributed under the MIT License.
+* Distributed under the MIT License. See LICENSE. https://github.com/tinamgonzales44/Color-Basic-GUI-Application-Exit-Button-using-Tkinter/blob/main/LICENSE
 
 
 
