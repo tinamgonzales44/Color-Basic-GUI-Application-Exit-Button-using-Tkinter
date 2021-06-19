@@ -51,10 +51,6 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-### Prerequisites
-
-* Must have Python 3.x installed.
-
 ### Installation
 
 * import tkinter module
@@ -97,7 +93,7 @@ Contributions are what make the open source community such an amazing place to b
 
 * Project Link: https://github.com/tinamgonzales44/Color-Basic-GUI-Application-Exit-Button-using-Tkinter/blob/main/WidgetColorGUIApplicationButton.py
 
-
+* Replit Project Link: https://replit.com/@tinamgonzales44/Color-Basic-GUI-Application-using-Tkinter#main.py
 
 
 <!-- ACKNOWLEDGEMENTS -->
