@@ -95,7 +95,7 @@ Contributions are what make the open source community such an amazing place to b
 
 * Tina Marie Gonzales: [@tinamgonzales44](https://twitter.com/tinamgonzales44) - tinamgonzales44@gmail.com
 
-* Project Link: https://github.com/tinamgonzales44/simplefunction/blob/main/simpleFunction.py
+* Project Link: https://github.com/tinamgonzales44/Color-Basic-GUI-Application-Exit-Button-using-Tkinter/blob/main/WidgetColorGUIApplicationButton.py
 
 
 
