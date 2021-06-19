@@ -37,8 +37,6 @@
 
 <!-- ABOUT THE Color GUI & Exit Button -->
 ## About The Color GUI & Exit Button
-1. Basic-Color-GUI-Application-Button-using-Tkinter
-
 
 ### Built With
 
